@@ -15,11 +15,7 @@ Feel free to reach out if you have any ideas!
 
 ---
 
-### 🔥 Current Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rsrahida&theme=react)
-
----
 
 ### 📚 Most Used Languages
 
